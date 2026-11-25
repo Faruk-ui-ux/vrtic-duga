@@ -608,9 +608,9 @@ section[id]{scroll-margin-top:16px}
  .aj-ph{position:absolute;width:300px;aspect-ratio:4 / 5}
  .aj-l{left:-56px;top:108px}
  .aj-r{right:-56px;bottom:120px;width:272px;aspect-ratio:1 / 1.1}
- .aj-g{max-width:920px}
+ .aj-g{max-width:1136px}
  .aj-sun{display:block;position:absolute;right:136px;top:-8px;width:132px;height:auto}
- .aj-plane{display:block;position:absolute;left:104px;bottom:24px;width:240px;height:auto}
+ .aj-plane{display:block;position:absolute;left:calc(50% - 575px);bottom:-8px;width:240px;height:auto}
 }
 
 /* zašto roditelji biraju nas */
