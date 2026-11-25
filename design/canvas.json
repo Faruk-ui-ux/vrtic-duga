@@ -1,0 +1,47 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "Main.dc.html": {
+      "expand": "fill",
+      "h": 7254,
+      "is_interactive": true,
+      "title": "Desktop 1440",
+      "w": 1440,
+      "x": 23,
+      "y": -54
+    },
+    "Telefon.dc.html": {
+      "expand": "fill",
+      "h": 8170,
+      "is_interactive": true,
+      "title": "Telefon 390",
+      "w": 390,
+      "x": 1520,
+      "y": 0
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-11-22T23:13:46Z",
+    "v": 1
+  },
+  "designSystems": [
+    {
+      "artifact": "https://claude.ai/code/artifact/5e8b885a-7c07-4d7a-90a1-60ec2b5fe92f",
+      "copiedAt": "2026-11-22T23:13:46Z",
+      "namespace": "vrtic",
+      "title": "Vrtić",
+      "version": "1795388694-ffe5"
+    }
+  ],
+  "launch": {
+    "view": "canvas"
+  },
+  "notes": {},
+  "order": [
+    "Main.dc.html",
+    "Telefon.dc.html"
+  ],
+  "pages": [],
+  "title": "Vrtić, početna stranica"
+}
